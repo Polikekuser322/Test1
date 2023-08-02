@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Epic projects/GITTT/TestGit1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/Epic projects/GITTT/TestGit1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Epic projects/GITTT/TestGit1/Content/MAPS/TESTMAP.umap"
 			]
 		}
 	]
